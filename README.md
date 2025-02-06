@@ -4,7 +4,7 @@
 
 📌 About the Project
 
-This project demonstrates how to manage a relational database using Java and MySQL. It covers:
+This project demonstrates how to manage a relational database using Java and MySQL. It covers:  
 ✅ Identifying correct SQL and Java data types 📊
 ✅ Establishing a database connection using JDBC 🔗
 ✅ Implementing CRUD operations (Create, Read, Update, Delete) 📝
