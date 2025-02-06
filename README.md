@@ -1,6 +1,6 @@
  ### 🚀 Java Database Management System
  
-🔹 Implementing CRUD () Operations in Java with MySQL
+🔹 Implementing CRUD Operations in Java with MySQL
 
 📌 About the Project
 
