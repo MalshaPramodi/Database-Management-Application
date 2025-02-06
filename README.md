@@ -22,3 +22,5 @@ JDBC (Java Database Connectivity) 🔗
 NetBeans / IntelliJ IDEA (IDE) 🖥️
 MySQL Connector/J (JDBC Driver) 📡
 JCalendar (Optional, for date handling) 📅
+
+![Alt](Db_Illustration.png)
