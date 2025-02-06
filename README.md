@@ -15,7 +15,7 @@ This project demonstrates how to manage a relational database using Java and MyS
 In real-world applications, data management is crucial. This project simulates an enterprise-level database management system, demonstrating efficient and secure database operations in Java. 
 It also serves as a strong foundation for building backend applications in Java.
 
-**⚙️ Tech Stack Used** 
+**⚙️ Tech Stack Used**   
 Java (Core Programming) ☕  
 MySQL (Database) 🛢️  
 JDBC (Java Database Connectivity) 🔗  
